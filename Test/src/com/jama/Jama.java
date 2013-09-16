@@ -7,6 +7,7 @@ public class Jama {
 		System.out.println("shuds");
 
 		System.out.println("fix v1");
+		//test
 	}
 	
 }
